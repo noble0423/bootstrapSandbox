@@ -1,3 +1,19 @@
 h1 {
     color: red;
 }
+
+@media only screen and (max-width: 768px) {
+    #main-content {
+        background: blue;
+        color: white;
+        padding: 50px 30px;
+        margin: 70px 150px; 
+    }
+
+    #sidebar {
+        background: green;
+        color: orange;
+        padding: 5% 10%;
+        margin: 10% 20%; 
+    }
+}
