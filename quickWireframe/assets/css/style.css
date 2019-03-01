@@ -1,0 +1,11 @@
+h1 {
+    color: red;
+}
+
+.border-red{
+    border: 1px solid red;
+}
+
+.border-blue{
+    border: 1px solid blue;
+}
